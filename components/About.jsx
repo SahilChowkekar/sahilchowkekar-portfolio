@@ -13,8 +13,8 @@ const About = () => {
           </p>
           <h2 className='py-4' style={{ marginLeft: '20px' }}>Who I Am</h2>
           <p className='py-2'style={{ marginLeft: '20px' , textAlign: 'justify'  }}>
-          Hello there! I'm Sahil Chowkekar, a passionate and ambitious individual with a strong background in computer science.
-           I hold a Bachelor's degree in Computer Engineering from Vidyavardhini’s College of Engineering and Technology, Mumbai University.
+          Hello there! I&#39;m Sahil Chowkekar, a passionate and ambitious individual with a strong background in computer science.
+           I hold a Bachelor's degree in Computer Engineering from Vidyavardhini&#39;s College of Engineering and Technology, Mumbai University.
            Currently, I am pursuing my Master's in Computer Science at the esteemed University of California, Riverside, with a specialization 
            in Data Science and Full Stack Development.
            </p>
