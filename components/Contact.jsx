@@ -63,7 +63,7 @@ const Contact = () => {
                   </div>
                   </a>
                  
-                  <a href='https://drive.google.com/file/d/1tqyAUJfFcrJQHdC1VlbxsAtlJa87WTE3/view?usp=sharing'
+                  <a href='https://drive.google.com/file/d/1WpBRa7HI-XnSeNNhG7KDAvgqKTmUH0lz/view?usp=sharing'
                       target='_blank'
                       rel='noreferrer'>
                       <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
