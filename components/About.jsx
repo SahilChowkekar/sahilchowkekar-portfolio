@@ -14,8 +14,8 @@ const About = () => {
           <h2 className='py-4' style={{ marginLeft: '20px' }}>Who I Am</h2>
           <p className='py-2'style={{ marginLeft: '20px' , textAlign: 'justify'  }}>
           Hello there! I&#39;m Sahil Chowkekar, a passionate and ambitious individual with a strong background in computer science.
-           I hold a Bachelor's degree in Computer Engineering from Vidyavardhini&#39;s College of Engineering and Technology, Mumbai University.
-           Currently, I am pursuing my Master's in Computer Science at the esteemed University of California, Riverside, with a specialization 
+           I hold a Bachelor&#39;s degree in Computer Engineering from Vidyavardhini&#39;s College of Engineering and Technology, Mumbai University.
+           Currently, I am pursuing my Master&#39;s in Computer Science at the esteemed University of California, Riverside, with a specialization 
            in Data Science and Full Stack Development.
            </p>
           <p className='py-2 ' style={{ marginLeft: '20px' , textAlign: 'justify'  }}>
@@ -29,7 +29,7 @@ const About = () => {
           In all my endeavors, I embrace the philosophy of continuous growth and strive
            to stay at the forefront of technology. I am eager to collaborate with like-minded 
            individuals and organizations to create innovative solutions that make a positive 
-           impact on the world. Let's connect and embark on this exciting journey together!
+           impact on the world. Let&#39;s connect and embark on this exciting journey together!
           </p>
           <Link href='/#projects'>
             <p className='py-2 underline cursor-pointer' style={{ marginLeft: '20px' }}>
