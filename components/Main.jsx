@@ -45,7 +45,7 @@ const Main = () => {
             </Link>
 
             
-            <a href='https://drive.google.com/file/d/1sua7WLfKfE8rUjx-PJQ15Hqh_ElcHqh9/view?usp=sharing'
+            <a href='https://drive.google.com/file/d/1mgbMCbHoMTwpiIRrD9kaI8H7rWmUj9ST/view?usp=sharing'
               target='_blank'
               rel='noreferrer'>
               <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
